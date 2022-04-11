@@ -1,5 +1,4 @@
 import React from "react"
-
 import { Link } from "gatsby"
 import Navigation from "../Navigation/Navigation"
 import Logo from "../../images/logo.svg"
@@ -20,4 +19,5 @@ const Header = () => {
     </Wrapper>
   )
 }
+
 export default Header
